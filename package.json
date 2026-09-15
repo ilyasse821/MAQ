@@ -1,0 +1,9 @@
+{
+  "name": "maq-security-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
